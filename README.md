@@ -6,6 +6,8 @@ A mod that adds a kalimba to the main character’s hands.
 Have you ever noticed this wild injustice — why do all the travelers have a musical instrument <sub>(except Esker)</sub>, but the main character doesn’t? \
 Well, **now you can *at any time* play *your very own kalimba*** and feel even closer to your fellow travelers.
 
+<img width="3440" height="1440" alt="Outer Wilds Screenshot 2026 01 20 - 23 04 35 77" src="https://github.com/user-attachments/assets/e45ad7e4-9557-4ce8-ac38-1fe76ad41b66" />
+
 ### How to use it?
 
 Very simple! \
@@ -16,6 +18,8 @@ That’s it!
 
 (Bonus) — you can first take out the signalscope, and then the kalimba. \ 
 This way, you’ll hear the music of other travelers and play together with them!
+
+<img width="3440" height="1440" alt="Outer Wilds Screenshot 2026 01 20 - 23 04 52 74" src="https://github.com/user-attachments/assets/9564a0f4-bde2-4edb-9c49-d01b22615d10" />
 
 ### Features
 
