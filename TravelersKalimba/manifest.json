@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "TravelersKalimba.dll",
+  "author": "peacemkr_png",
+  "name": "Traveler’s Kalimba",
+  "uniqueName": "peacemkr_png.Traveler’s Kalimba",
+  "version": "1.0.0",
+  "owmlVersion": "2.15.1",
+  "dependencies": []
+}
