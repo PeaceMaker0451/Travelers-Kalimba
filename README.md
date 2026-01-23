@@ -1,5 +1,6 @@
 
-<img width="900" height="300" alt="PreviewPostEffect" src="https://github.com/user-attachments/assets/62efde33-41eb-4f80-a9b8-9de509a9783f" />
+<img width="1350" height="450" alt="PreviewPostEffect" src="https://github.com/user-attachments/assets/18c0a76f-8d0a-4849-bd80-71f2da3c1cdc" />
+
 
 A mod that adds a kalimba to the main character’s hands.
 
